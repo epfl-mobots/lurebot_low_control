@@ -5,7 +5,7 @@ This project uses the Arduino Nano 33 IoT and depends on:
 - FreeRTOS_SAMD21 (2.3.0)
 - ArduinoBLE (1.2.2)
 
-This is the firmware for the FishbotV5.2. It implements:
+This is the firmware for the LureBot. It implements:
 
 1. The low level motor control and power management
 2. A Bluetooth Low Energy (BLE) interface to accept commands and communicate information to clients
