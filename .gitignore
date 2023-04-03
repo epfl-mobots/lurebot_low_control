@@ -2,4 +2,4 @@
 .vscode
 .pio
 platformio.ini
-fishbot_firmware_version.h
+lurebot_firmware_version.h
